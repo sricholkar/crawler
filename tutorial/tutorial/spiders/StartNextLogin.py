@@ -7,14 +7,15 @@ import splash
 class LoginSpider(scrapy.Spider):
     name = 'startnext.com'
     start_urls = ['https://www.startnext.com/login.html']
-
+    
+    """ Logging into website """
     def parse(self, response):
         return scrapy.FormRequest.from_response(
             response,
             formdata={'login_email': 'chsreev@gmail.com', 'login_password': 'secret'},
             callback=self.after_login
             )
-
+    """ Looping through different URLs """
     def after_login(self, response):
         
         urls = []
@@ -29,7 +30,7 @@ class LoginSpider(scrapy.Spider):
                              encoding = "UTF-8", callback=self.parse_link)
             yield req
         # continue scraping with authenticated session...
-
+    """ Parsing data from each URL """
     def parse_link(self, response):
         s = Selector(response)
         links = s.xpath("//header[@class='headline']/a/@href").extract()
@@ -38,7 +39,7 @@ class LoginSpider(scrapy.Spider):
             yield req
             
     def parse_org(self, response):
-        print ('Success')
+        print ('********Started Parsing Data*********')
         sel = Selector(response)
         fetchCommentsRequest = scrapy.Request(url= response.url+r'/pinnwand', method="GET",
                              encoding = "UTF-8", callback=self.fetchComments, meta={
@@ -94,3 +95,4 @@ class LoginSpider(scrapy.Spider):
         sel = Selector(response)
         print (sel.xpath("//section[@class='main-section pin-board-section']/div/div[@id='eqWall']").extract())
 ##
+				
