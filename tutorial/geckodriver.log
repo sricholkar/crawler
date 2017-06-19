@@ -1,0 +1,55 @@
+1497700753141	geckodriver	INFO	Listening on 127.0.0.1:50011
+1497700755368	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1497700761253	Marionette	INFO	Listening on port 50017
+1497700761917	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1497700844685	geckodriver	INFO	Listening on 127.0.0.1:50136
+1497700846761	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1497700853081	Marionette	INFO	Listening on port 50142
+1497700854292	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1497701007489	geckodriver	INFO	Listening on 127.0.0.1:50207
+1497701009569	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1497701014752	Marionette	INFO	Listening on port 50213
+1497701015250	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1497701104660	geckodriver	INFO	Listening on 127.0.0.1:50263
+1497701106738	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1497701112181	Marionette	INFO	Listening on port 50269
+1497701112905	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1497701143263	geckodriver	INFO	Listening on 127.0.0.1:50319
+1497701145347	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1497701150783	Marionette	INFO	Listening on port 50325
+1497701151922	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1497701262052	geckodriver	INFO	Listening on 127.0.0.1:50377
+1497701264132	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1497701271003	Marionette	INFO	Listening on port 50383
+1497701271462	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1497701359785	geckodriver	INFO	Listening on 127.0.0.1:50442
+1497701361861	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1497701367033	Marionette	INFO	Listening on port 50448
+1497701367650	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1497702685989	geckodriver	INFO	Listening on 127.0.0.1:50852
+1497702688080	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1497702694028	Marionette	INFO	Listening on port 50858
+1497702694939	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1497702771573	geckodriver	INFO	Listening on 127.0.0.1:50911
+1497702773672	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1497702779114	Marionette	INFO	Listening on port 50917
+1497702779740	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1497702890229	geckodriver	INFO	Listening on 127.0.0.1:50969
+1497702892328	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1497702899309	Marionette	INFO	Listening on port 50975
+1497702900664	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1497703151741	geckodriver	INFO	Listening on 127.0.0.1:51039
+1497703153872	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1497703159321	Marionette	INFO	Listening on port 51045
+1497703160169	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
