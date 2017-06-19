@@ -1,0 +1,16 @@
+Data Set Information:
+
+CrowdFunding Projects in StartNext website
+
+Attribute Information:
+
+1. Category
+2. Description
+3. Founder
+4. City
+5. Funding Threshold
+6. Funding Goal
+7. Keywords
+8. AboutProject
+9. Project Goal (description)
+10. Team Members

@@ -1,0 +1,5 @@
+import selenium.webdriver 
+
+get = driver.Firefox("C:\Webdriver\geckodriver")
+clicked = get.find_element_by_class_name('more')
+ 
